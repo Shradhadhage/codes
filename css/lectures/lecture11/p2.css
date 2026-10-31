@@ -1,0 +1,6 @@
+div h1{
+    color: purple;
+}
+li:first-child{
+    color: aqua;
+}

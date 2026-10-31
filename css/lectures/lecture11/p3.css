@@ -1,0 +1,9 @@
+div ~ p{
+    color:blue
+}
+h1:hover{
+     color:pink;
+}
+li:first-child{
+    color: aqua;
+}
